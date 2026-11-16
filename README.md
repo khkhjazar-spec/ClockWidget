@@ -1,1 +1,1 @@
-# ClockWidget
+# digital-clock-widget
